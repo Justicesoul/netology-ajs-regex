@@ -1,0 +1,21 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "core-js": "^3.22.8"
+  }
+}
